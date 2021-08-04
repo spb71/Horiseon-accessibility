@@ -19,4 +19,9 @@ The code style used in index.html is semantic HTML. In CSS, the code style used 
 
 ## Installation
 
-1. Navigate
+1. Press the green CODE button.
+2. Copy the SSH key to your clipboard.
+3. Navigate to your terminal and type in "git clone".
+4. Paste in the SSH key and hit Enter.
+5. Navigate to the directory in your local machine that you cloned the repository in.
+6. Look through the source code the images as much as you like! :)
