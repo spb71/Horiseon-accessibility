@@ -8,7 +8,7 @@ The code style used in index.html is semantic HTML. In CSS, the code style used 
 
 ## Screenshots
 
-<img src="../Horiseon-accessibility/assets/01-html-css-git-homework-demo.png" alt="image of full webpage">
+![Image of full webpage](/Horiseon-accessibility/assets/01-html-css-git-homework-demo.png)
 
 ## Tech/framework used
 
