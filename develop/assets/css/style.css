@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* changed from 'class=header' to semantic header tag with appropriate selector */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,7 +23,7 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/* changed from links class to semantic nav tag with appropriate selector */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -68,13 +68,13 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* changed from 'class=content' to semantic main tag with appropriate selector */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* changed from div tag to semantic section tag with appropriate selector */
 main section {
     margin-bottom: 20px;
     padding: 50px;
@@ -92,7 +92,8 @@ main section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* changed from div tag to semantic aside tag since content is loosely related to 
+main content */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -119,7 +120,7 @@ aside section img {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* changed from 'class=footer' to semantic footer tag with appropriate selector */
 footer {
     padding: 30px;
     clear: both;
